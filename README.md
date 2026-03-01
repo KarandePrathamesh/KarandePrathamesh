@@ -1,7 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Prathamesh%20Karande&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Mobile%20Application%20Developer&descAlignY=58&descSize=18&descColor=a0aec0)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:a78bfa,100:0d1117&height=200&section=header&text=Prathamesh%20Karande&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Mobile%20Application%20Developer&descAlignY=58&descSize=18&descColor=a0aec0)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=fdfcff&center=true&vCenter=true&width=600&lines=Flutter+%26+React+Native;Open+to+Opportunities)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
